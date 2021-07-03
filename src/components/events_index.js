@@ -39,7 +39,6 @@ class EventsIndex extends Component {
       right: 12,
       bottom: 12
     }
-
     return(
       <React.Fragment>
         <FloatingActionButton style={style} containerElement={<Link to="/events/new" />}>
